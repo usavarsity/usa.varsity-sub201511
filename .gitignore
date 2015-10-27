@@ -1,0 +1,64 @@
+# Yoeman
+node_modules/
+bower_components/
+*.log
+
+build/
+dist/
+
+# sass
+.sass-cache/
+*.css.map
+
+# databases
+.log
+.sql
+.sqlite
+
+# archives
+.7z
+.dmg
+.gz
+.iso
+.jar
+.rar
+.tar
+.zip
+
+# osx
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+# *.sublime-project
+
+# sftp configuration file
+sftp-config.json
+
+# gpg
+secring.*
