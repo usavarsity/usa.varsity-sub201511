@@ -1,1 +1,1 @@
-
+Put notes, requirements, contracts, whatever documents related to the project in this main folder. For resource documents such as flyers, banners, posters, newsletters, website text content, etc.. those should go into the Content folder.
